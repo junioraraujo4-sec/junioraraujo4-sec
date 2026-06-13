@@ -10,7 +10,6 @@ building my skills from the ground up with a clear goal
 
 ## 🎯 About Me
 
-- 🌍 Based in Brazil
 - 🔐 Focused on: Penetration Testing & SOC Analysis
 - 📚 Currently: TryHackMe Pre-Security + Google Cybersecurity Certificate (Coursera)
 - 🌱 Learning: Networking, Linux, Web Security
@@ -54,4 +53,3 @@ building my skills from the ground up with a clear goal
 ## 📫 Contact Me
 
 - 💼 Open to: Junior cybersecurity roles & remote opportunities
-- 🌐 Location: Brazil
