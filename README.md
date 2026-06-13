@@ -1,7 +1,7 @@
 # Hi, I'm Junior Araújo 
 
 I'm a Brazilian cybersecurity student focused on 
-Penetration Testing and Security Analysis.
+Security Analysis and Penetration Tester.
 Currently building my skills from the ground up 
 with a clear goal — work remotely for international companies.
 
@@ -10,8 +10,8 @@ with a clear goal — work remotely for international companies.
 # About Me
 
 - 🌍 Based in Brazil
-- 🔐 Focused on: Penetration Testing & SOC Analysis
-- 📚 Currently: TryHackMe Pre-Security path
+- 🔐 Focused on: SOC Analysis and Penetration Tester
+- 📚 Currently: TryHackMe Pre-Security path + Google Cybersecurity Certificate (Coursera)
 - 🌱 Learning: Networking, Linux, Web Security
 - 🚀 Goal: First cybersecurity job + international remote work
 - 💬 Languages: Portuguese (native) | English (advanced)
@@ -35,10 +35,12 @@ with a clear goal — work remotely for international companies.
 
 ---
 
-## 📈 My Roadmap
+## Roadmap 
 
 - [x] Started cybersecurity studies
+- [x] Created GitHub profile and study repository
 - [ ] Complete TryHackMe Pre-Security
+- [ ] Complete Google Cybersecurity Certificate
 - [ ] Complete SOC Level 1
 - [ ] Complete Jr Penetration Tester
 - [ ] Get eJPT certification
@@ -47,7 +49,6 @@ with a clear goal — work remotely for international companies.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - 💼 Open to: junior cybersecurity roles & remote opportunities
-- 🌐 Location: Brazil
