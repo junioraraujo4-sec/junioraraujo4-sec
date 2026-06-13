@@ -49,5 +49,5 @@ with a clear goal — work remotely for international companies.
 
 ## 📫 Contact Me
 
-- 💼 Open to: Junior cybersecurity roles & remote opportunities
+- 💼 Open to: junior cybersecurity roles & remote opportunities
 - 🌐 Location: Brazil
